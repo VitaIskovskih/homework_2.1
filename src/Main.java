@@ -4,7 +4,7 @@ public class Main {
         int bonus = 20;//количество рублей для одной бонусной мили
 
 
-        int miles = price/bonus;//количество бонусных миль
+        int miles = price / bonus;//количество бонусных миль
         System.out.println(miles + "миль");
     }
 }
